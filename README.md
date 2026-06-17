@@ -1,16 +1,13 @@
 # AI Bully for the 2026 GameAI Summer School Jam
 
-[![Unity](https://img.shields.io/badge/Unity-2023-blue.svg)](https://unity.com)  
-[![ML‑Agents](https://img.shields.io/badge/Machine%20Learning-4.x-green.svg)](https://github.com/Unity-Technologies/ml-agents)  
-[![Python](https://img.shields.io/badge/Python-3.10-yellow.svg)](https://python.org)  
-[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
+[![Unity](https://img.shields.io/badge/Unity-6.0.4-blue.svg)](https://unity.com) [![ML‑Agents](https://img.shields.io/badge/Unity_ML_Agents-4.0.3-green.svg)](https://github.com/Unity-Technologies/ml-agents) [![Python](https://img.shields.io/badge/Python-3.10.11-yellow.svg)](https://python.org) [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 
 
 ## Team Name
 
-**THINK OF SOMETHING**
+**AI BULLIES**
 
-*Project description.*
+*We bully obnoxious AI*
 
 
 # ML‑Agents Advanced Installation Guide
